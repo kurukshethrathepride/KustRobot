@@ -1,12 +1,7 @@
 <div align="center">
 
 <pre>
- ██╗  ██╗██╗   ██╗███████╗████████╗    ██████╗  ██████╗ ████████╗
- ██║ ██╔╝██║   ██║██╔════╝╚══██╔══╝    ██╔══██╗██╔═══██╗╚══██╔══╝
- █████╔╝ ██║   ██║███████╗   ██║       ██████╔╝██║   ██║   ██║
- ██╔═██╗ ██║   ██║╚════██║   ██║       ██╔══██╗██║   ██║   ██║
- ██║  ██╗╚██████╔╝███████║   ██║       ██████╔╝╚██████╔╝   ██║
- ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝       ╚═════╝  ╚═════╝    ╚═╝
+          
 
   🛡️  TELEGRAM GROUP MANAGEMENT BOT  🛡️
 </pre>
@@ -15,17 +10,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=4000&pause=500&color=00D4FF&center=true&vCenter=true&width=650&lines=🛡️+Open-Source+Group+Management+Bot;⚡+Raw+HTTP+Webhook+%2B+Flask;🗄️+MongoDB+Per-Group+Storage;📝+Notes%2C+Filters+%26+Blacklist;🚀+Deploy+Anywhere+in+Minutes" alt="typing" />
 </p>
 
-<p align="center">
-<a href="https://github.com/kustbots/KustRobot/stargazers"><img src="https://img.shields.io/github/stars/kustbots/KustRobot?color=black&logo=github&logoColor=white&style=for-the-badge" alt="Stars"/></a>
-<a href="https://github.com/kustbots/KustRobot/network/members"><img src="https://img.shields.io/github/forks/kustbots/KustRobot?color=black&logo=github&logoColor=white&style=for-the-badge"/></a>
-<a href="https://github.com/kustbots/KustRobot/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPL%203.0-blue?style=for-the-badge" alt="License"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python"/></a>
-<a href="https://github.com/kustbots/KustRobot/commits/main"><img src="https://img.shields.io/github/last-commit/kustbots/KustRobot?color=blue&logo=github&logoColor=green&style=for-the-badge"/></a>
-</p>
-
 </div>
 
 ---
+
+[![Render](https://img.shields.io/badge/Deploy-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/deploy?repo=https://github.com/kurukshethrathepride/KustRobot)
+
 
 ## ✨ Features
 
